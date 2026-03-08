@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" fill="none">
+  <!-- Background -->
+  <rect width="180" height="180" rx="40" fill="#10b981"/>
+  
+  <!-- Checkmark -->
+  <path d="M56 90 L72 106 L124 54" stroke="white" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- Pulse indicator -->
+  <path d="M45 135 Q67.5 112.5, 90 135 T135 135" stroke="white" stroke-width="8" stroke-linecap="round" fill="none" opacity="0.9"/>
+</svg>

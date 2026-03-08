@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="30" fill="#10b981" opacity="0.1"/>
+  
+  <!-- Checkmark -->
+  <path d="M20 32 L28 40 L44 24" stroke="#10b981" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- Pulse/activity indicator -->
+  <path d="M16 48 Q24 40, 32 48 T48 48" stroke="#10b981" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.6"/>
+</svg>
